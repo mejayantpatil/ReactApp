@@ -1,0 +1,27 @@
+{
+  "name": "reactjs",
+  "description": "this is ract js application",
+  "main": "index.js",
+  "keywords": [
+    "javascript"
+  ],
+  "authors": [
+    "Jayant patil"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.0",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0",
+    "react-router": "^2.6.1"
+  }
+}

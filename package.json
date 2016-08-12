@@ -1,0 +1,20 @@
+{
+  "name": "reactexample",
+  "version": "1.0.0",
+  "description": "this is react example ",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "jayant",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2",
+    "gulp-concat": "^2.6.0",
+	"http-server":"*"
+  }
+}
